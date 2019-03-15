@@ -7,8 +7,8 @@
  */
 
 return [
-    'app_id'=>'wxa667729a9f28ded7',
-    'app_secret'=>'739348b1d5f35ec5922be3234b1cdc97',
+    'app_id'=>'******************',
+    'app_secret'=>'************************************',
     'login_url'=>'https://api.weixin.qq.com/sns/jscode2session?appid=%s&secret=%s&js_code=%s&grant_type=authorization_code',
 
     // 微信获取access_token的url地址
